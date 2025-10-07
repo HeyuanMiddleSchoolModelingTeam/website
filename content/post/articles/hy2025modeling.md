@@ -6,6 +6,13 @@ math: true
 hidden: false
 comments: true
 draft: false
+tags:
+    - Mathematical Modeling
+    - Competition Article
+    - Python 3
+categories:
+    - Modeling Article
+    - Competition
 ---
 
 > 参赛选手：陈君逸、黄孜勇、罗梓宁、谢瑜恩、叶彬</br>
