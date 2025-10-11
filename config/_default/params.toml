@@ -1,5 +1,5 @@
 # Pages placed under these sections will be shown on homepage and archive page.
-mainSections = ["post"]
+mainSections = ["post", "paper"]
 # Output page's full content in RSS.
 rssFullContent = true
 favicon = "/favicon.png"
@@ -28,7 +28,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+default = "All right reserved"
 
 ## Widgets
 [[widgets.homepage]]
@@ -80,7 +80,7 @@ enabled = true
 provider = "giscus"
 
 [comments.giscus]
-repo = "HeyuanMiddleSchoolModelingTeam/website"
+repo = "HZModelingTeam/HZModelingTeam.github.io"
 repoID = "R_kgDOP9sADw"
 category = "Announcements"
 categoryID = "DIC_kwDOP9sAD84CwWEl"
@@ -92,7 +92,7 @@ emitMetadata = 0
 lang = "zh-CN"
 
 # <script src="https://giscus.app/client.js"
-#         data-repo="HeyuanMiddleSchoolModelingTeam/website"
+#         data-repo="HZModelingTeam/HZModelingTeam.github.io"
 #         data-repo-id="R_kgDOP9sADw"
 #         data-category="Announcements"
 #         data-category-id="DIC_kwDOP9sAD84CwWEl"

@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://HeyuanMiddleSchoolModelingTeam.github.io/website"
+baseurl = "https://HZModelingTeam.github.io"
 languageCode = "zh-cn"
 title = "重生之数学建模"
 
