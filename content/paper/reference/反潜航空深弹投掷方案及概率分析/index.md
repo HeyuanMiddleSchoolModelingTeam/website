@@ -5,7 +5,7 @@ date: 2025-10-12
 math: true
 hidden: false
 comments: true
-draft: true
+draft: false
 tags:
   - Mathematical Modeling
   - Reference
