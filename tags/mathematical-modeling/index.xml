@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematical Modeling on 重生之数学建模</title><link>https://HZModelingTeam.github.io/tags/mathematical-modeling/</link><description>Recent content in Mathematical Modeling on 重生之数学建模</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://HZModelingTeam.github.io/tags/mathematical-modeling/index.xml" rel="self" type="application/rss+xml"/><item><title>参考文献列表（PDF）</title><link>https://HZModelingTeam.github.io/paper/reference/all/</link><pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate><guid>https://HZModelingTeam.github.io/paper/reference/all/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/2024%e5%b9%b4%e6%b2%b3%e6%ba%90%e5%b8%82%e7%ac%ac%e4%b8%80%e5%b1%8a%e6%95%b0%e5%ad%a6%e5%bb%ba%e6%a8%a1%e6%af%94%e8%b5%9b%e4%bc%98%e7%a7%80%e8%ae%ba%e6%96%87%e6%b1%87%e7%bc%96.pdf" &gt;2024河源市第一届数学建模比赛优秀论文汇编&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/20250619%e9%ab%98%e4%b8%ad%e6%95%b0%e5%ad%a6%e5%bb%ba%e6%a8%a1%e5%ae%9e%e8%b7%b5%e7%a0%94%e7%a9%b6-%e6%9d%8e%e8%89%be%e3%80%81%e8%94%a1%e7%bb%b4%202.pdf" &gt;20250619高中数学建模实践研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%8f%8d%e6%bd%9c%e8%88%aa%e7%a9%ba%e6%b7%b1%e5%bc%b9%e6%8a%95%e6%8e%b7%e6%96%b9%e6%a1%88%e4%bc%98%e5%8c%96%e5%8f%8a%e6%a6%82%e7%8e%87%e5%88%86%e6%9e%90.pdf" &gt;反潜航空深弹投掷方案优化及概率分析&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%9f%ba%e4%ba%8e%e6%94%b9%e8%bf%9b%e7%b2%92%e5%ad%90%e7%be%a4%e7%ae%97%e6%b3%95%e4%b8%8eMike_Hydro_Basin%e8%bd%af%e4%bb%b6%e7%9a%84%e9%98%b3%e6%b3%89%e5%b8%82%e6%b0%b4%e8%b5%84%e6%ba%90%e4%bc%98%e5%8c%96%e9%85%8d%e7%bd%ae%e7%a0%94%e7%a9%b6_%e6%9d%8e%e7%89%a7%e7%bf%b0.pdf" &gt;基于改进粒子群算法与Mike_Hydro_Basin软件的阳泉市水资源优化配置研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%9f%ba%e4%ba%8e%e5%8f%af%e7%a9%bf%e6%88%b4%e8%ae%be%e5%a4%87%e7%9b%91%e6%b5%8b%e6%95%b0%e6%8d%ae%e7%9a%84%e7%9d%a1%e7%9c%a0%e7%bb%93%e6%9e%84%e5%8f%82%e6%95%b0%e4%b8%8e%e7%9d%a1%e7%9c%a0%e8%b4%a8%e9%87%8f%e9%87%8f%e5%8c%96%e5%85%b3%e7%b3%bb%e5%bb%ba%e6%a8%a1%e5%8f%8a%e4%bc%98%e5%8c%96%e7%ad%96%e7%95%a5%e7%a0%94%e7%a9%b6.pdf" &gt;基于可穿戴设备监测数据的睡眠结构参数与睡眠质量量化关系建模及优化策略研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%9f%ba%e4%ba%8e%e7%a5%9e%e7%bb%8f%e7%bd%91%e7%bb%9c%e7%9a%84%e6%97%a0%e4%ba%ba%e8%bd%a6%e5%8a%a8%e5%8a%9b%e5%ad%a6%e5%bb%ba%e6%a8%a1%e6%96%b9%e6%b3%95_%e7%8e%8b%e5%86%9b.pdf" &gt;基于神经网络的无人车动力学建模方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%9f%ba%e4%ba%8e%e7%b3%bb%e7%bb%9f%e5%8a%a8%e5%8a%9b%e5%ad%a6%e7%9a%84%e4%b8%89%e6%b2%b3%e5%8f%a3%e6%b0%b4%e5%ba%93%e6%b5%81%e5%9f%9f%e6%b0%b4%e6%b1%a1%e6%9f%93%e6%8e%a7%e5%88%b6%e7%a0%94%e7%a9%b6_%e9%83%91%e7%8e%89%e5%bc%ba.pdf" &gt;基于系统动力学的三河口水库流域水污染控制研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%9f%ba%e4%ba%8eSD%e6%a8%a1%e5%9e%8b%e7%9a%84%e4%ba%91%e5%8d%97%e7%9c%81%e6%b0%b4%e8%b5%84%e6%ba%90%e4%bc%98%e5%8c%96%e9%85%8d%e7%bd%ae%e7%a0%94%e7%a9%b6_%e7%94%98%e4%ba%9a%e6%96%8c.pdf" &gt;基于SD模型的云南省水资源优化配置研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e6%b0%b4%e8%b5%84%e6%ba%90%e7%ba%a6%e6%9d%9f%e4%b8%8b%e6%b2%b3%e5%8d%97%e7%9c%81%e6%b2%bf%e9%bb%84%e5%9f%8e%e5%b8%82%e4%ba%a7%e4%b8%9a%e7%bb%93%e6%9e%84%e4%bc%98%e5%8c%96%e8%b0%83%e6%95%b4%e7%a0%94%e7%a9%b6_%e5%bc%a0%e6%99%97.pdf" &gt;水资源约束下河南省沿黄城市产业结构优化调整研究&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e4%b8%ad%e5%9b%bd%e4%ba%ba%e5%8f%a3%e8%b6%85%e8%80%81%e9%be%84%e5%8c%96%e8%bf%9b%e7%a8%8b%e9%a2%84%e6%b5%8b%e7%a0%94%e7%a9%b6%e2%80%94%e2%80%94%e5%9f%ba%e4%ba%8e%e9%98%9f%e5%88%97%e8%a6%81%e7%b4%a0%e4%b8%8eLogistic%e6%a8%a1%e5%9e%8b.pdf" &gt;中国人口超老龄化进程预测研究——基于队列要素与Logistic模型&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e7%b4%ab%e9%87%91%e5%8e%bf%e7%b4%ab%e9%87%91%e4%b8%ad%e5%ad%a6%e5%ad%a6%e7%94%9f2%e5%8f%b7%e4%bd%9c%e5%93%81.pdf" &gt;紫金县紫金中学学生2号作品&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>反潜航空深弹投掷方案及概率分析</title><link>https://HZModelingTeam.github.io/paper/reference/%E5%8F%8D%E6%BD%9C%E8%88%AA%E7%A9%BA%E6%B7%B1%E5%BC%B9%E6%8A%95%E6%8E%B7%E6%96%B9%E6%A1%88%E5%8F%8A%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://HZModelingTeam.github.io/paper/reference/%E5%8F%8D%E6%BD%9C%E8%88%AA%E7%A9%BA%E6%B7%B1%E5%BC%B9%E6%8A%95%E6%8E%B7%E6%96%B9%E6%A1%88%E5%8F%8A%E6%A6%82%E7%8E%87%E5%88%86%E6%9E%90/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Download PDF: &lt;a class="link" href="https://HZModelingTeam.github.io/papers/pdf/%e5%8f%8d%e6%bd%9c%e8%88%aa%e7%a9%ba%e6%b7%b1%e5%bc%b9%e6%8a%95%e6%8e%b7%e6%96%b9%e6%a1%88%e4%bc%98%e5%8c%96%e5%8f%8a%e6%a6%82%e7%8e%87%e5%88%86%e6%9e%90.pdf" &gt;反潜航空深弹投掷方案及概率分析.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="摘要"&gt;摘要
+&lt;/h2&gt;&lt;p&gt;本研究针对反潜作战中的深弹投掷问题，针对问题1，建立了二维正态分布、蒙特卡洛模拟等模型分析潜艇定位误差及投弹方案对命中概率的影响。针对问题2，通过对深弹的投掷方式进行优化设计，分别在潜艇定位误差为单向和三向的情况下给出了最大化命中概率的投弹方案。针对问题3，还研究了多枚深弹协同投掷的效果。具体研究分为以下三部分。&lt;/p&gt;
+&lt;p&gt;针对问题1，考虑单枚深弹投射，潜艇定位无误差。通过几何概率和二维正态分布建模，计算出最大命中概率为 $35.84%$ 。分析得出：（1）命中概率与投弹落点平面坐标相关，越接近潜艇所在区域（ $100\mathrm{m} \times 20\mathrm{m}$ ），命中概率越高；（2）最大命中概率与引爆深度高度相关，应设置在潜艇上表面或稍高处，以兼顾触发引信与定深引信；（3）预估位置服从正态分布，越靠近预估点，命中概率越大。最后通过蒙特卡洛模拟验证模型可行性。&lt;/p&gt;
+&lt;p&gt;针对问题2，考虑定位误差，其中深度误差服从单边截尾正态分布，水平误差仍为正态分布。利用累积分布函数与截尾分布计算最大命中概率约为 $24%$ 。构建三维分布图，分析表明命中概率随深度误差增大而降低，通过优化引爆深度可有效提升命中率，并给出相应表达式。模型经马尔科夫链与敏感性分析验证。&lt;/p&gt;
+&lt;p&gt;针对问题3，研究反潜飞机投放9枚深弹的协同命中策略。假设引爆深度一致，设计阵列式投弹布局，通过调节间隔和引爆深度，提升至少命中一枚的概率。最终得出最大命中概率为 $84.37%$ ，最优间距为 $60\mathrm{m}$ 和引爆深度为 $140\mathrm{m}$ 。通过蒙特卡洛模拟与敏感性分析验证模型有效性。研究为实际反潜作战提供了理论参考与优化策略。&lt;/p&gt;
+&lt;p&gt;本研究的结果为反潜作战中深弹的投掷策略提供了理论依据和实践指导。通过优化投弹方案与引爆深度，可以显著提高深弹命中潜艇的概率，尤其是在多枚深弹协同作用下，命中率有了大幅提升。&lt;/p&gt;
+&lt;p&gt;关键词：二维正态分布、蒙特卡洛模拟、截尾正态分布、马尔科夫链&lt;/p&gt;
+&lt;h2 id="一自拟题目描述"&gt;一、自拟题目描述
+&lt;/h2&gt;&lt;p&gt;本题选自2024年高教社杯全国大学生数学建模竞赛D题，选择本题的原因是本题难度适中，相对符合高中生的知识面，我们队伍在众多题目中筛选之后选择这道题展开数学模型的建立。&lt;/p&gt;
+&lt;h2 id="二问题分析"&gt;二、问题分析
+&lt;/h2&gt;&lt;h3 id="21-问题1分析"&gt;2.1 问题1分析
+&lt;/h3&gt;&lt;p&gt;在问题1中，假设潜艇深度定位没有误差，水平位置的误差均服从正态分布 $N(0,\sigma^2)$ ，本题需要建立一个模型，研究在投弹落点和定深引信深度已知的情况下，投弹的最大命中概率。此问题要求本题分析航空深弹命中潜艇的几何条件以及如何优化投弹方案以最大化命中概率。在分析最后进行结果分析，用蒙特卡洛模拟对模型进行检验。&lt;/p&gt;
+&lt;h3 id="22-问题2分析"&gt;2.2 问题2分析
+&lt;/h3&gt;&lt;p&gt;在问题二中，进一步增加了潜艇中心位置深度的误差，深度误差服从单边截尾正态分布 $N(h_0, \sigma_Z^2, I)$ ，并给出了该分布的密度函数。然后进行命中概率计算，最后给出投弹命中概率表达式。此时，需要设计合理的定深引信引爆深度，以最大化深弹命中潜艇的概率。&lt;/p&gt;
+&lt;h3 id="23-问题3分析"&gt;2.3 问题3分析
+&lt;/h3&gt;&lt;p&gt;在问题3中，要求设计多枚深弹投放的方案，以提升命中潜艇的概率。在反潜作战中，由于单枚深弹的命中率较低，采用多枚深弹投放并覆盖较大范围可以增加潜艇命中的概率。需要考虑多枚深弹的投放阵列形状、深弹之间的间隔及定深引信的引爆深度，并通过计算至少一枚深弹命中的概率，给出最佳投弹方案。为了直观的表达本文的任务，作出如图1所示的流程图&lt;/p&gt;
+&lt;!-- ![](images/4421e2ad715fd85ad5cd8e4c3ae741dc891695c5c8399197ef9af202176f69d3.jpg) --&gt;
+&lt;p&gt;图1本文流程图&lt;/p&gt;
+&lt;h2 id="三模型假设"&gt;三、模型假设
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;假设深弹在引爆时，杀伤效果立即发挥，不考虑爆炸后冲击波的延迟或潜艇瞬时移动。&lt;/li&gt;
+&lt;li&gt;假设深弹在水中垂直下落，不受外界影响。&lt;/li&gt;
+&lt;li&gt;假设定深引信能够在预设深度精确引爆，且不受外界因素如水流或压力的干扰。&lt;/li&gt;
+&lt;li&gt;假设深弹的杀伤范围为固定的球形半径（20米），范围内均视为命中。&lt;/li&gt;
+&lt;li&gt;假设在深弹投放和下落期间，潜艇保持静止不动，没有任何位移。&lt;/li&gt;
+&lt;li&gt;海水密度、温度、压力等环境条件均一，不影响深弹的下落速度和引信的触发条件。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="四符号说明"&gt;四、符号说明
+&lt;/h2&gt;&lt;!-- &lt;table&gt;&lt;tr&gt;&lt;td&gt;符号&lt;/td&gt;&lt;td&gt;说明&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;σ&lt;/td&gt;&lt;td&gt;潜艇水平位置的标准差&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;r&lt;/td&gt;&lt;td&gt;深弹落点距离潜艇中心位置的距离&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zi&lt;/td&gt;&lt;td&gt;定深引信引爆深度&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Z0&lt;/td&gt;&lt;td&gt;潜艇的实际深度&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;h0&lt;/td&gt;&lt;td&gt;潜艇中心深度的定位值&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Φ&lt;/td&gt;&lt;td&gt;标准正态分布的密度函数&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Φ&lt;/td&gt;&lt;td&gt;标准正态分布的累积分布函数&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;hd&lt;/td&gt;&lt;td&gt;深弹爆炸处&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;d&lt;/td&gt;&lt;td&gt;离爆炸处距离&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;P1&lt;/td&gt;&lt;td&gt;区域一&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;P2&lt;/td&gt;&lt;td&gt;区域二&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;P水平&lt;/td&gt;&lt;td&gt;水平命中概率&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;P深度&lt;/td&gt;&lt;td&gt;深度命中概率&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2πσ²&lt;/td&gt;&lt;td&gt;高斯函数的标准化因子&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; --&gt;
+&lt;h2 id="五模型的建立与求解"&gt;五、模型的建立与求解
+&lt;/h2&gt;&lt;p&gt;题目要求分析潜艇中心位置的深度无误差，水平位置服从正态分布的情况下，投弹落点与潜艇位置的命中概率最大时的投弹方案。本题要考虑深弹的命中条件，在爆炸范围内对潜艇产生伤害。建立数学模型计算命中的概率。因为本题在三种情况下任意一种都可视作命中，所以要分区域计算。然后进行总命中概率求和计算。最后进行结果分析和对模型的检验。在本题中为了清晰表达问题一的工作，做出如图2所示的流程图。&lt;/p&gt;
+&lt;!-- ![](images/588f00b8dcde46607dd7e43066c28a52970385a1b4bdc2efddbd1eacb26ae6a5.jpg)
+图2 问题一流程图 --&gt;
+&lt;h3 id="51-问题一单枚深弹投射"&gt;5.1 问题一单枚深弹投射
+&lt;/h3&gt;&lt;h4 id="1-模型准备"&gt;1 模型准备
+&lt;/h4&gt;&lt;p&gt;潜艇在水下, 水平面上坐标为 $(X_{0}, Y_{0})$ 。潜艇的长宽分别为 100 米 (长) 和 20 米 (宽), 高度为 25 米, 假设其横截面为长方形。潜艇的深度为 150 米, 假设深弹可以准确到达指定深度, 无误差。此时本题主要考虑水平面上的命中情况。潜艇的中心位置在水平面的投影 $(X_{0}, Y_{0})$ , 水平定位误差服从正态分布: $X, Y \sim N(X_{0}, \sigma^{2})$ , 其中 $\sigma = 120$ 米。&lt;/p&gt;
+&lt;h4 id="2-命中条件"&gt;2 命中条件
+&lt;/h4&gt;&lt;p&gt;在本问题中，深弹命中潜艇的条件涉及多个物理和概率因素。根据题目的描述，潜艇的位置在水平面上服从正态分布，而命中条件取决于深弹的落点在水平方向上与潜艇之间的关系。具体而言，深弹满足以下三种情形之一就视为命中潜艇：&lt;/p&gt;
+&lt;p&gt;（一）在情形一中，深弹落点在潜艇的水平平面范围内，且引爆深度正确（在这种情况下，深弹的落点必须满足以下条件）&lt;/p&gt;
+&lt;p&gt;(1) 落点在潜艇的水平平面范围内&lt;/p&gt;
+&lt;p&gt;潜艇在水平面上的长度为100米，宽度为20米。假设潜艇的中心位置为 $(X_0, Y_0)$ ，那么潜艇的水平平面范围是：&lt;/p&gt;
+$$
+X _ {0} - 5 0 \leqslant X \leqslant X _ {0} + 5 0, Y _ {0} - 1 0 \leqslant Y \leqslant Y _ {0} + 1 0
+$$&lt;p&gt;也就是说，深弹的落点 $(X, Y)$ 必须位于这个区域内，才可能命中潜艇。&lt;/p&gt;
+&lt;p&gt;(2) 引爆深度正确&lt;/p&gt;
+&lt;p&gt;深弹在到达潜艇的上方时，需要引爆深度设定正确。引爆深度必须与潜艇的实际深度匹配。如果深弹在潜艇的上表面下方引爆，触发引信将引爆深弹，这时就视为命中。&lt;/p&gt;
+&lt;p&gt;因此，在这种情形下，命中的条件是：&lt;/p&gt;
+&lt;p&gt;1）深弹的水平坐标 $(X,Y)$ 落在潜艇的水平平面范围内。&lt;br&gt;
+2）深弹的引爆深度位于潜艇的上方或者恰好在潜艇的上表面下方。&lt;/p&gt;
+&lt;p&gt;（二）在情形二中，深弹落点在潜艇水平平面范围内，引爆深度位于潜艇上方，但潜艇在深弹杀伤半径内（这种情况下）&lt;/p&gt;
+&lt;p&gt;1）深弹落点依然位于潜艇的水平平面范围内（ $X_0 - 50 \leqslant X \leqslant X_0 + 50$ 或 $Y_0 - 10 \leqslant Y \leqslant Y_0 + 10$&lt;br&gt;
+(三) 在情形三中, 深弹落点在潜艇水平平面范围外, 但潜艇在深弹的杀伤半径内 (在这种情形下)&lt;br&gt;
+（1）深弹的落点在潜艇的水平平面范围外，即 $X$ 或 $Y$ 坐标没有落在潜艇的水平范围内。&lt;/p&gt;
+&lt;p&gt;命中条件总结&lt;/p&gt;
+&lt;p&gt;在上述三种情况下，深弹都可能命中潜艇。三种情况对命中的要求从严格到宽松，分别涉及以下三个方面：&lt;/p&gt;
+&lt;p&gt;(1) 落点精度: 深弹的落点需要精确在潜艇的平面范围内, 尤其是当引爆深度设定正确时。&lt;br&gt;
+(2) 引爆深度: 深弹的引爆深度必须匹配潜艇的实际深度, 触发引信有效。如果深弹的引爆深度稍有误差, 但潜艇仍在杀伤半径内, 仍然可以命中潜艇。&lt;/p&gt;
+&lt;h3 id="52-计算最大命中概率的模型"&gt;5.2 计算最大命中概率的模型
+&lt;/h3&gt;&lt;p&gt;潜艇的位置分布&lt;/p&gt;
+&lt;p&gt;潜艇的实际位置 $(X, Y)$ 可以用正态分布表示：&lt;/p&gt;
+$$
+X \sim N \left(X _ {0}, \sigma^ {2}\right), Y \sim N \left(Y _ {0}, \sigma^ {2}\right)
+$$&lt;p&gt;(2)&lt;/p&gt;
+&lt;p&gt;其中， $\sigma$ 值指的是潜艇水平位置的定位误差的标准差， $\sigma = 120$ 米是潜艇水平定位误差的标准差。这里的 $\sigma$ 反映了潜艇实际位置相对于其定位值（ $X_0, Y_0$ ）的散布程度。误差越大， $\sigma$ 值越大，潜艇实际位置偏离定位值的可能性也就越高。&lt;/p&gt;
+&lt;p&gt;构建二维正态分布&lt;/p&gt;
+&lt;p&gt;由于潜艇的水平位置误差 $X$ 和 $Y$ 是两个相互独立的正态分布随机变量，因此可以构建潜艇水平位置的二维正态分布（如图3所示利用MATLAB软件，详细代码见支撑材料图3）。其概率密度函数为：&lt;/p&gt;
+$$
+f (X, Y) = \frac {1}{2 \pi \sigma^ {2}} \exp \left(- \frac {\left(X - X _ {0}\right) ^ {2} + \left(Y - Y _ {0}\right) ^ {2}}{2 \sigma^ {2}}\right)
+$$&lt;p&gt;(3)&lt;/p&gt;
+&lt;p&gt;其中， $f(X,Y)$ 表示在点 $(X,Y)$ 处的函数值。 $2\pi \sigma^2$ 是高斯函数的标准化因子。 $\sigma^2$ 是高斯分布的方差这个概率密度函数描述了潜艇中心位置在水平面上可能出现的概率分布情况。由于正态分布的对称性，潜艇实际位置距离中心点 $(X_0, Y_0)$ 越远，出现的概率就越小。&lt;/p&gt;
+&lt;!-- ![](images/ec55df19e208922a5cd2831822b05208c83aaec97ca42c07e95aceb9fe8afb83.jpg)
+图3二维正态分布 --&gt;
+&lt;p&gt;深弹落点的随机性&lt;/p&gt;
+&lt;p&gt;深弹的落点是随机的，并且与潜艇的水平误差是独立的。假设投弹的位置能够精确控制，投弹的目标位置为 $(X_0, Y_0)$ 。但由于潜艇实际位置存在定位误差，因此投弹的命中情况也具有随机性。从本模型上看，投弹落点的坐标是潜艇中心位置的函数，潜艇实际位置是一个二维正态分布的随机变量。因此，本题需要通过该二维正态分布来计算不同投弹方案下的命中概率（分布图如图3）。&lt;/p&gt;
+&lt;p&gt;深弹命中概率的模型&lt;/p&gt;
+&lt;p&gt;（1）区域一潜艇的平面区域命中&lt;/p&gt;
+&lt;p&gt;深弹落点在潜艇的水平平面区域内，在这个区域内，触发引信会被激活，深弹将直接命中潜艇。本题为了更直观的表达此过程手绘了如图4所示的潜艇水平平面区域示意图。&lt;/p&gt;
+&lt;!-- ![](images/7fd42973fac8884ca29bcd6b61952ed6903b6578c7cdf5629fc52b3f560f7a2a.jpg)
+图4 潜艇的平面区域命中手绘图 --&gt;
+&lt;p&gt;命中概率可以表示为:&lt;/p&gt;
+$$
+P _ {1} = \int_ {X _ {0} - 5 0} ^ {X _ {0} + 5 0} \int_ {Y _ {0} - 1 0} ^ {Y _ {0} + 1 0} f (X, Y) d X d Y \tag {4}
+$$&lt;p&gt;其中， $P_{1}$ 代表区域一这个二维积分代表投弹落点恰好落在潜艇的水平区域内的概率。（2）区域二潜艇杀伤半径内命中&lt;/p&gt;
+$$
+P _ {2} = \int_ {0} ^ {2 \pi} \int_ {0} ^ {2 0} \frac {r}{2 \pi \sigma^ {2}} \exp \left(- \frac {r ^ {2}}{2 \sigma^ {2}}\right) d r d \theta \tag {5}
+$$&lt;p&gt;其中， $P_{2}$ 代表区域二， $\mathbf{r}$ 是深弹落点距离潜艇中心位置的距离。这是一个极坐标下的积分，描述了落点在杀伤半径范围内的命中概率。本题为了更直观的表达此过程手绘了如图5所示的落点不在潜艇的平面区域内的示意图。&lt;/p&gt;
+&lt;!-- ![](images/71ee710dab2103c65be5d182084b7a24b2d3171deeec4065b933a5127a523894.jpg)
+图5 潜艇杀伤半径内命中手绘图 --&gt;
+&lt;p&gt;总命中概率&lt;/p&gt;
+&lt;p&gt;总的命中概率由两部分组成: 深弹落点在潜艇的水平区域内的概率 $P_{1}$ , 落点在潜艇水平区域外, 但潜艇位于深弹杀伤半径内的概率 $P_{2}$ 。&lt;/p&gt;
+&lt;p&gt;因此，总命中概率表达式可以表示为：&lt;/p&gt;
+$$
+P _ {\text {总}} = P _ {1} \times P _ {2} \tag {6}
+$$&lt;p&gt;其中 $P_{\text {总}}$ 代表的是总概率，这个表达式结合了两种命中的可能性，一种是直接命中潜艇水平平面的区域，另一种是通过杀伤半径的间接命中。本题可以通过优化引爆深度和投弹位置，来最大化这个命中概率。&lt;/p&gt;
+&lt;h3 id="53总结"&gt;5.3总结
+&lt;/h3&gt;&lt;p&gt;通过上述步骤，我们建立了一个合理的数学模型来描述深弹的投弹命中过程。模型中采用了二维正态分布来描述潜艇水平位置的误差，利用几何方法划分命中区域，并通过积分计算命中概率。得到最大命中概率为 $35.48%$&lt;/p&gt;
+&lt;h3 id="54-最大命中概率与投弹落点平面坐标之间的关系"&gt;5.4 最大命中概率与投弹落点平面坐标之间的关系
+&lt;/h3&gt;&lt;h4 id="541-投弹落点平面坐标--x-y--对命中概率的影响"&gt;5.4.1 投弹落点平面坐标 $(X, Y)$ 对命中概率的影响
+&lt;/h4&gt;&lt;p&gt;潜艇的中心位置（ $X_0$ ， $Y_0$ ）在水平方向上存在误差，服从正态分布。投弹的实际命中概率依赖于深弹落点和潜艇实际位置的相对关系。&lt;/p&gt;
+&lt;h5 id="1与投弹落点的关系"&gt;（1）与投弹落点的关系
+&lt;/h5&gt;&lt;p&gt;1）落点距离潜艇中心位置越近，命中概率越大。因为潜艇的实际位置服从正态分布，距离越近，正态分布概率密度函数的值越大，意味着深弹命中潜艇的概率更高。&lt;br&gt;
+2）投弹位置偏离潜艇中心的位置越远，命中概率下降。这是因为正态分布的尾部区域的概率较小，远离潜艇的落点命中潜艇的可能性降低。&lt;/p&gt;
+&lt;h5 id="2最优投弹落点选择"&gt;（2）最优投弹落点选择
+&lt;/h5&gt;&lt;p&gt;投弹落点的最优选择显然是投弹落点与潜艇的预估位置（ $X_0$ ， $Y_0$ ）尽可能重合。由于潜艇的位置误差服从正态分布，因此本题选择投弹落点时，应尽量投向预估的潜艇中&lt;/p&gt;
+&lt;p&gt;心位置。这时，命中概率达到最大。&lt;/p&gt;
+&lt;h3 id="55定深引信引爆深度--mathbfz_i--对命中概率的影响关系"&gt;5.5定深引信引爆深度 $\mathbf{Z}_i$ 对命中概率的影响关系
+&lt;/h3&gt;&lt;h4 id="551-潜艇深度和引爆深度的关系"&gt;5.5.1 潜艇深度和引爆深度的关系
+&lt;/h4&gt;&lt;p&gt;设潜艇的实际深度为 $Z_{0}$ , 潜艇高度为 25 米。为了最大化命中概率, 定深引信引爆深度 $\mathbf{Z}_{i}$ 需要满足以下条件。&lt;/p&gt;
+&lt;p&gt;（1）触发引信引爆条件&lt;/p&gt;
+&lt;p&gt;当定深引信引爆深度位于潜艇上表面的下方时，触发引信被激活，引爆深弹。&lt;/p&gt;
+$$
+Z _ {i} \geqslant Z _ {0} - 1 2. 5
+$$&lt;p&gt;(7)&lt;/p&gt;
+&lt;p&gt;其中， $Z_{i}$ 是定深引信引爆深度， $Z_{0}$ 是潜艇的实际深度，这里12.5是潜艇的高度一半，即上表面相对于潜艇中心的距离。&lt;/p&gt;
+&lt;p&gt;（2）定深引信引爆条件&lt;/p&gt;
+&lt;p&gt;如果引爆深度位于潜艇的上方，但潜艇在深弹的杀伤范围内（20米以内），深弹仍可以通过爆炸波及潜艇。&lt;/p&gt;
+$$
+Z _ {i} \leqslant Z _ {0} + 2 0
+$$&lt;p&gt;(8)&lt;/p&gt;
+&lt;p&gt;这里20米是深弹的杀伤半径。&lt;/p&gt;
+&lt;p&gt;因此，定深引信引爆深度必须设定在潜艇的上表面和下表面之间，以确保深弹在引爆时能够最大化打击潜艇。&lt;/p&gt;
+&lt;p&gt;（3）深度误差的影响&lt;/p&gt;
+&lt;p&gt;如果潜艇实际深度存在误差，则定深引信引爆深度的设定应根据潜艇的深度分布来优化。假设潜艇的实际深度服从某个分布（如单边截尾正态分布[2]），那么引爆深度的最佳选择应尽可能靠近潜艇的中心深度。&lt;/p&gt;
+&lt;h3 id="56-投弹命中概率最大的投弹方案"&gt;5.6 投弹命中概率最大的投弹方案
+&lt;/h3&gt;&lt;p&gt;综合投弹落点平面坐标和定深引信引爆深度对命中概率的影响，投弹最大命中概率的方案应满足以下条件：&lt;/p&gt;
+&lt;p&gt;投弹平面坐标选择&lt;/p&gt;
+&lt;p&gt;投弹应尽可能瞄准潜艇预估位置（ $X_0$ ， $Y_0$ ），因为潜艇位置误差服从正态分布，距离中心点越近的投弹命中概率越大。&lt;/p&gt;
+&lt;p&gt;引爆深度选择&lt;/p&gt;
+&lt;p&gt;引爆深度应设定在潜艇的上表面下方，或稍高于预估潜艇深度，以确保无论是触发引信还是定深引信，都能保证较高的命中概率。&lt;/p&gt;
+&lt;p&gt;不断调整&lt;/p&gt;
+&lt;p&gt;通过调整投弹坐标和引爆深度，优化命中概率，确保深弹最大程度地命中潜艇。&lt;/p&gt;
+&lt;h3 id="57结果分析"&gt;5.7结果分析
+&lt;/h3&gt;&lt;p&gt;问题一的最终结果为：航空深弹的最大命中概率为 $35.48%$ （利用 MATLAB 软件进行可视化分析，详细代码见附录问题 1）。投弹命中概率与投弹落点平面坐标相关，越接近&lt;/p&gt;
+&lt;p&gt;潜艇的平面范围（长 100 米，宽 20 米），命中概率越高。命中概率还取决于定深引信引爆深度：引爆深度在潜艇上表面以下时，触发引信会引爆深弹；位于上表面上方且潜艇在杀伤半径内时，定深引信会引爆。最佳投弹方案是瞄准潜艇预估位置 $(X_{0}, Y_{0})$ ，因为位置误差服从正态分布，离中心越近，命中概率越大。引爆深度应设在潜艇上表面或稍高于预估深度，以确保高命中概率。求得最大命中概率表达式为 $P_{\text {总}} = P_{1} \times P_{2}$ 。&lt;/p&gt;
+&lt;p&gt;直接命中潜艇平面范围的概率&lt;/p&gt;
+&lt;p&gt;这是深弹落点在潜艇的水平平面区域内的概率，取决于投弹落点和潜艇位置的相对误差。计算表明，当落点越接近潜艇中心位置，命中概率越高。&lt;/p&gt;
+&lt;p&gt;通过杀伤半径间接命中的概率&lt;/p&gt;
+&lt;p&gt;如果投弹落点超出潜艇的平面范围，但潜艇位于深弹的杀伤半径（20米）内，仍有可能命中。这个概率随着落点距离潜艇中心的增加而逐渐减小。&lt;/p&gt;
+&lt;h3 id="58结论"&gt;5.8结论
+&lt;/h3&gt;&lt;h4 id="1投弹落点的优化"&gt;（1）投弹落点的优化
+&lt;/h4&gt;&lt;p&gt;命中概率随着投弹落点接近潜艇中心位置而增大。因此，投弹位置应尽可能瞄准潜艇的预估中心位置，以最大化命中概率。&lt;/p&gt;
+&lt;h3 id="59-模型检验"&gt;5.9 模型检验
+&lt;/h3&gt;&lt;h4 id="1边界条件检验"&gt;（1）边界条件检验
+&lt;/h4&gt;&lt;p&gt;1）当潜艇的水平定位误差 $\sigma$ 逐渐减小时，潜艇的位置分布会更加集中，理论上命中概率应趋近于 1。如果模型中使用的正态分布合理，随着 $\sigma \rightarrow 0$ ，命中概率应接近 $100%$ 。（利用 MATLAB 软件进行可视化分析，如图 6 所示，详细代码见附录问题 1 图 6）&lt;br&gt;
+2）相反，当潜艇的水平定位误差 $\sigma$ 增大到极限时（ $\sigma \to \infty$ ），命中概率应趋近于 0。这是因为潜艇的位置变得越来越不确定，深弹无法准确命中。（利用 MATLAB 软件进行可视化分析，如图 7 所示，详细代码见支撑材料图 7）&lt;/p&gt;
+&lt;!-- ![](images/d12f0e76b796f840ff96db8b6c842d6f6100ee3813e61f2c2fdc848b666e249d.jpg)
+图6水平误差逐渐减小的检验
+![](images/e57e5952739da7499bbc27ac838866171db70a22af970f9a9f90114ebaff55a2.jpg)
+图7水平误差逐渐增大的检验 --&gt;
+&lt;h4 id="2-极限情况检验"&gt;(2) 极限情况检验
+&lt;/h4&gt;&lt;p&gt;1）如果投弹的落点恰好位于潜艇中心位置上（ $X_0$ ， $Y_0$ ），那么命中概率应该达到最大。模型应在这种情况下给出接近 1 的命中概率。&lt;br&gt;
+2) 如果杀伤半径增大到极限值（例如远大于潜艇尺寸），则即便落点远离潜艇，命中概率仍应接近 1。&lt;/p&gt;
+&lt;h4 id="3数值模拟检验"&gt;（3）数值模拟检验
+&lt;/h4&gt;&lt;p&gt;可以通过蒙特卡洛模拟[3]检验模型的准确性。利用MATLAB软件通过模拟大量投弹&lt;/p&gt;
+&lt;p&gt;落点分布，并统计模拟中的命中次数，来验证理论计算的命中概率是否与模拟结果相符（利用MATLAB软件进行可视化分析，如图8所示，详细代码见支撑材料图8）。&lt;/p&gt;
+&lt;!-- 5.10 问题二的模型建立在本题中为了清晰表
+![](images/b2a26296390b93a6f7788ad00c017da8fc81007107ba5acc0ed901f36975d431.jpg)
+图如下。
+![](images/a9306f87bc740971c74b6eb308f24e8bd40dd05cecb7a94f4e71fb8b4cd935ba.jpg)
+图9 问题二解题流程图 --&gt;
+&lt;h3 id="511-问题二单枚深弹投射"&gt;5.11 问题二单枚深弹投射
+&lt;/h3&gt;&lt;h4 id="5111-模型准备"&gt;5.11.1 模型准备
+&lt;/h4&gt;&lt;p&gt;引爆条件：&lt;/p&gt;
+&lt;p&gt;触发引信和定深引信的引爆条件遵循以下规则：&lt;/p&gt;
+&lt;p&gt;(1) 航空深弹落点在潜艇平面范围内, 引爆深度位于潜艇上表面下方, 由触发引信引爆。&lt;br&gt;
+(2) 航空深弹落点在潜艇平面范围内, 引爆深度位于潜艇上表面上方但在杀伤范围内,由定深引信引爆。&lt;br&gt;
+（3）航空深弹落点在潜艇平面范围外，到达引爆深度时由定深引信引爆，此时潜艇在杀伤范围内。&lt;/p&gt;
+&lt;h4 id="5112水平位置误差模型x和y"&gt;5.11.2水平位置误差模型（X和Y）
+&lt;/h4&gt;&lt;p&gt;假设潜艇的中心位置在平面上的水平坐标 $X$ 和 $Y$ 均存在误差，并且这两个误差是独立的，分别服从正态分布。具体来说， $X \sim N(0, \sigma^2)$ ， $Y \sim N(0, \sigma^2)$ 。&lt;/p&gt;
+$$
+f X, Y (x, y) = \frac {1}{2 \pi \sigma^ {2}} \exp \left(- \frac {x ^ {2} + y ^ {2}}{2 \sigma^ {2}}\right)
+$$&lt;p&gt;(9)&lt;/p&gt;
+&lt;p&gt;（1）累积分布函数（CDF）&lt;/p&gt;
+&lt;p&gt;为了计算投弹落点落在潜艇水平平面内的概率，本题需要累积分布函数（CDF）。假设潜艇的长为 $100\mathrm{m}$ ，宽为 $20\mathrm{m}$ ，其水平矩形区域可以表示为：&lt;/p&gt;
+$$
+R = \{(x, y) | | x | \leqslant 5 0 m, | y | \leqslant 1 0 m \} \tag {10}
+$$&lt;p&gt;落在该矩形区域内的投弹概率为：&lt;/p&gt;
+$$
+P \left((X, Y) \in R\right) = \iint_ {R} f X, Y (x, y) d x d y
+$$&lt;p&gt;(11)&lt;/p&gt;
+&lt;p&gt;(2) 深度位置误差模型 (Z)&lt;/p&gt;
+&lt;p&gt;在垂直方向上，潜艇的深度位置 $Z$ 误差较为复杂，它不仅有一个正态分布的误差，而且还存在物理限制——即潜艇的深度不能低于某个最小值 $I$ 。因此， $Z$ 服从的是单边截尾正态分布，其概率密度函数由题目可得为：&lt;/p&gt;
+$$
+f _ {h _ {0}, \sigma_ {z}} l (v) = \frac {1}{\sigma_ {z}} \cdot \frac {\phi \left(\frac {v - h _ {0}}{\sigma_ {z}}\right)}{1 - \Phi \left(\frac {l - h _ {0}}{\sigma_ {z}}\right)} (l &lt; v &lt; + \infty)
+$$&lt;p&gt;(12)&lt;/p&gt;
+&lt;p&gt;其中， $h_0 = 150\mathrm{m}$ 是潜艇中心深度的定位值。 $\sigma_z = 40\mathrm{m}$ 是潜艇中心位置深度误差的标准差。 $l = 120\mathrm{m}$ 是潜艇中心位置的最小深度，表示潜艇不会低于这个深度。 $\Phi$ 是标准正态分布的密度函数， $\Phi$ 是标准正态分布的累积分布函数。&lt;/p&gt;
+&lt;p&gt;（3）截尾正态分布的特性&lt;/p&gt;
+&lt;p&gt;由于物理限制，潜艇深度不能小于 $1 = 120\mathrm{m}$ ，这就是单边截尾正态分布的意义所在。密度函数在深度为 $h_0 = 150m$ 处达到最大值，并且在 $1 = 120\mathrm{m}$ 附近急剧下降。&lt;/p&gt;
+&lt;h3 id="512-计算命中概率"&gt;5.12 计算命中概率
+&lt;/h3&gt;&lt;h4 id="5121-命中条件"&gt;5.12.1 命中条件
+&lt;/h4&gt;&lt;p&gt;假设投弹落点的平面坐标为 $(x_d, y_d)$ ，潜艇的水平尺寸为 $100 \times 20\mathrm{m}$ ，本题需要满足以下条件之一：&lt;/p&gt;
+&lt;p&gt;(1) 投弹落点在潜艇水平范围内（即 $|x_{d}| \leqslant 50 \mathrm{~m}$ 且 $|y_{d}| \leqslant 10 \mathrm{~m} |y_{d}|$ ，并且深度引信的引爆深度在潜艇的上方。&lt;br&gt;
+(2) 投弹落点不在潜艇水平范围内, 但距离潜艇水平中心的距离小于等于杀伤半径 $R_{k} = 20 m$ 。&lt;/p&gt;
+&lt;p&gt;首先计算投弹落点在潜艇范围内的概率：&lt;/p&gt;
+$$
+P \big ((X, Y) \in R \big) = \iint_ {R} f X, Y (x, y) d x d y
+$$&lt;p&gt;(14)&lt;/p&gt;
+&lt;h4 id="5122-投弹命中概率表达式"&gt;5.12.2 投弹命中概率表达式
+&lt;/h4&gt;&lt;p&gt;（1）水平命中概率&lt;/p&gt;
+&lt;p&gt;$P_{\text {水平命中}}$ , 表示投弹落点在潜艇的水平平面范围内或者在杀伤半径内的概率。&lt;/p&gt;
+&lt;p&gt;(2) 深度命中概率&lt;/p&gt;
+&lt;p&gt;$P_{\text {深度命中}}$ , 表示投弹达到引爆深度后, 潜艇的实际深度在杀伤半径范围内的概率。&lt;/p&gt;
+&lt;p&gt;因此得出投弹命中概率的表达式可以写为：&lt;/p&gt;
+$$
+P _ {\text {命 中}} = P _ {\text {水 平 命 中}} \cdot P _ {\text {深 度 命 中}}
+$$&lt;p&gt;(16)&lt;/p&gt;
+&lt;h3 id="513结果分析"&gt;5.13结果分析
+&lt;/h3&gt;&lt;p&gt;在潜艇位置定位有误差的情况下投弹命中概率表达式为 $P_{\text{命中}} = P_{\text{水平命中}} \cdot P_{\text{深度命中}}$ 。&lt;/p&gt;
+&lt;p&gt;(1) 水平命中概率: 由于潜艇相对于水平误差的尺寸较小, 导致单枚深弹水平命中潜艇的概率较低。在实际情况下, 可能需要多次投弹才能有效覆盖潜艇的水平误差区域。&lt;br&gt;
+(2) 深度命中概率: 通过优化引爆深度, 可以显著提高深度命中概率。最佳引爆深度通常稍高于潜艇的中心深度, 以保证潜艇处于杀伤半径内。&lt;br&gt;
+(3) 总体命中概率: 单枚深弹命中潜艇的概率约为 $24 %$ , 反映出单枚深弹投掷时的命中率较低。这意味着在实际应用中, 需要设计多枚深弹投掷方案以提高命中概率, 尤其是在潜艇水平误差较大的情况下。&lt;/p&gt;
+&lt;h3 id="514模型检验"&gt;5.14模型检验
+&lt;/h3&gt;&lt;h4 id="5141-敏感性分析"&gt;5.14.1 敏感性分析
+&lt;/h4&gt;&lt;p&gt;参数敏感性分析是一种用于检验模型对不同参数的敏感程度的常用方法。我们可以通过调整模型中的关键参数（如水平误差 $\sigma$ 、深度误差 $\sigma_{Z}$ 、引爆深度 $D$ 等），观察命中概率的变化趋势，以评估模型的稳定性。（本题利用MATLAB软件做出了如图10所示的敏感性分析，详细代码见附录图10和支撑材料）&lt;/p&gt;
+&lt;!-- ![](images/5f9682f4c8f95d359aefb4f489af7060582cd7a5edc0b3e0ebc31f8cdc0e832f.jpg)
+![](images/903c4d548899f8ce5eea642e0741f05fb3ba8dbeff50c64cfacc85db6f26fe8f.jpg)
+![](images/5754c3263625354f0ff79b6dbacee50ac170c4dba0ecfd16bfb37cab9fb1f38c.jpg)
+图10 敏感性分析 --&gt;
+&lt;p&gt;(1) 调整水平误差 $\sigma$ : 通过增加或减少水平定位误差, 观察水平命中概率的变化。若水平误差增加, 命中概率应该下降, 反之亦然。&lt;/p&gt;
+&lt;h4 id="5142数值仿真验证"&gt;5.14.2数值仿真验证
+&lt;/h4&gt;&lt;p&gt;模型中的投弹命中概率是基于正态分布和截尾正态分布的分析推导。为了进一步检验模型的准确性，可以通过数值仿真（本题用马尔科夫链[4]）来验证模型的结果是否与实际情况一致。马尔可夫链的性质有且存在于离散指数集以及状态空间内的随机过程。在本题中用于验证投弹命中概率模型的准确性与合理性。（因此本题利用MATLAB软件作出如图11所示的可视化分析三维分布图，详细代码见附录图11和支撑材料）。&lt;/p&gt;
+&lt;!-- ![](images/02c7b8522688695635c070a4419edc0b86abdce7d73f2423922342c07ebda2bf.jpg)
+图11马尔科夫链验证结果可行性
+--&gt;
+&lt;p&gt;其中，X轴和Y轴代表投弹在水平方向的坐标（以米为单位）。坐标范围是从-400到400米，表示投弹的可能落点位置。正态分布的误差使得大部分的落点会集中在坐标的中心（靠近0处），而离中心越远的点命中概率越低。Z轴表示命中概率的大小，范围从0到1。在中心区域（ $X = 0$ ， $Y = 0$ 附近），命中概率最高，接近1，说明投弹落点在目标中心附近时命中潜艇的可能性最大。离中心越远，命中概率逐渐降低，接近0，表示远离潜艇的区域命中概率极低。&lt;/p&gt;
+&lt;h3 id="515-问题三的模型建立与求解"&gt;5.15 问题三的模型建立与求解
+&lt;/h3&gt;&lt;p&gt;本题的目标是设计一个投弹方案，使得投弹命中概率最大化。投弹命中包括多种情况，深弹的落点在潜艇平面区域内，并且引爆深度在潜艇上方，由触发引信引爆。深弹的落点在潜艇平面区域内，引爆深度在潜艇上表面上方，由定深引信引爆。深弹落点在潜艇平面区域外，但潜艇位于深弹引爆时的杀伤范围内。假设有9枚深弹，投弹的落点在平面上呈阵列形状。为了简化问题，本题假设深弹之间的投弹间隔相同，所有深弹的定深引信引爆深度相同。为了更直观的表达本题的工作任务作了如图12所示的流程图。&lt;/p&gt;
+&lt;!-- ![](images/663b89411cfeaeac117d5d4bd61b0ee4eac7acfb965e69aa9c10b8ae839e0899.jpg)
+图12 问题三的流程图
+--&gt;
+&lt;h3 id="516-问题三多枚深弹投射"&gt;5.16 问题三多枚深弹投射
+&lt;/h3&gt;&lt;h4 id="5161-单枚深弹命中概率模型"&gt;5.16.1 单枚深弹命中概率模型
+&lt;/h4&gt;&lt;p&gt;对于问题三，单枚深弹是否命中潜艇，主要取决于两个因素：水平面上的投弹落点&lt;/p&gt;
+&lt;p&gt;与潜艇的平面位置关系（即 $X$ 和 $Y$ 方向的命中），以及深度方向（即 $Z$ 方向）的命中概率。为了描述深弹的命中概率，本题将从水平位置和深度两个角度分别建模。&lt;/p&gt;
+&lt;h4 id="5162-水平坐标的误差模型"&gt;5.16.2 水平坐标的误差模型
+&lt;/h4&gt;&lt;p&gt;首先本题假设潜艇在 $X$ 和 $Y$ 方向的实际位置具有误差，这些误差服从正态分布。即，潜艇中心的 $X$ 和 $Y$ 坐标是随机变量，分别服从正态分布： $X \sim N(0, \sigma^2)$ ， $Y \sim N(0, \sigma^2)$&lt;/p&gt;
+&lt;p&gt;这里 $\sigma = 120 \mathrm{~m}$ 是水平坐标定位误差的标准差，意味着潜艇的水平定位存在一定的不确定性。对于深弹的落点，本题设深弹的平面落点为 $(x_{d}, y_{d})$ ，潜艇中心的平面坐标为 $(x_{s}, y_{s})$ 。投弹落点与潜艇中心的水平距离为：&lt;/p&gt;
+$$
+d = \sqrt {\left(x _ {d} - x _ {s}\right) ^ {2} + \left(y _ {d} - y _ {s}\right) ^ {2}}
+$$&lt;p&gt;(17)&lt;/p&gt;
+&lt;p&gt;如果这个距离 $d$ 小于等于深弹的杀伤半径 $r = 20\mathrm{m}$ ，则认为这枚深弹在水平位置上命中了潜艇。因此，水平命中条件描述为 $d \leqslant r$ ，或者转换成更方便计算的式子如下：&lt;/p&gt;
+$$
+\sqrt {\left(x _ {d} - x _ {s}\right) ^ {2} + \left(y _ {d} - y _ {s}\right) ^ {2}} \leqslant r
+$$&lt;p&gt;(18)&lt;/p&gt;
+&lt;p&gt;这个条件可以转化为计算深弹落点在潜艇平面区域内的概率。因为潜艇的中心 $(x_{s},y_{s})$ 是随机变量，服从二维正态分布 $N(0,\sigma^2)$ 本题需要计算潜艇中心落在深弹杀伤范围 $r$ 内的概率。&lt;/p&gt;
+&lt;h4 id="5163-水平命中概率计算"&gt;5.16.3 水平命中概率计算
+&lt;/h4&gt;&lt;p&gt;本题假设潜艇中心位置 $(x_{s},y_{s})$ 的坐标服从独立的二维正态分布。具体来说，潜艇在 $X$ 和 $Y$ 方向上的误差服从如下联合分布：&lt;/p&gt;
+$$
+f X, Y \left(x _ {s}, y _ {s}\right) = \frac {1}{2 \pi \sigma^ {2}} \exp \left(- \frac {x _ {s} ^ {2} + y _ {s} ^ {2}}{2 \sigma^ {2}}\right) \tag {19}
+$$&lt;p&gt;本题希望计算潜艇中心落入半径为 $r$ 的圆形区域内的概率，即：&lt;/p&gt;
+$$
+P _ {\text {水 平}} = \iint_ {d \leqslant r} f X, Y \left(x _ {s}, y _ {s}\right) d x _ {s} d y _ {s} \tag {20}
+$$&lt;p&gt;其中， $P_{\text{水平}}$ 代表水平命中概率为了简化计算，本题将此联合概率分布转换为极坐标系。设距离 $d = \sqrt{x_s^2 + y_s^2}$ 为半径，角度为 $\theta$ ，则联合密度函数转换为：&lt;/p&gt;
+$$
+P _ {\text {水 平}} = 1 - \exp \left(- \frac {r ^ {2}}{2 \sigma^ {2}}\right)
+$$&lt;p&gt;(21)&lt;/p&gt;
+&lt;p&gt;其中， $r = 20\mathrm{m}$ 是深弹的杀伤半径， $\sigma = 120\mathrm{m}$ 是潜艇平面位置的误差。&lt;/p&gt;
+&lt;p&gt;这个结果意味着，在平面上投弹落点与潜艇位置的误差服从正态分布的情况下，深弹在水平命中的概率随着杀伤半径和定位误差的变化按指数衰减。&lt;/p&gt;
+&lt;h4 id="5164-深度命中概率计算"&gt;5.16.4 深度命中概率计算
+&lt;/h4&gt;&lt;p&gt;本题为了计算深度命中概率 $P_{\text{深}}$ ，需要利用截尾正态分布的累积分布函数 $\Phi$ 来描述深度误差的范围。假设潜艇的深度误差服从正态分布 $Z \sim N(h_0, \sigma_z^2)$ ，那么命中概率可以表示为：&lt;/p&gt;
+$$
+P _ {\text {深}} = P \left(h _ {d} - r \leqslant z \leqslant h _ {d} + r\right) \tag {23}
+$$&lt;p&gt;使用正态分布的累积分布函数，命中概率为：&lt;/p&gt;
+$$
+P _ {\text {深}} = \Phi \left(\frac {h _ {d} + r - h _ {0}}{\sigma_ {z}}\right) - \Phi \left(\frac {h _ {d} - r - h _ {0}}{\sigma_ {z}}\right) \tag {24}
+$$&lt;p&gt;其中 $\Phi$ 是标准正态分布的累积分布函数， $\sigma_Z = 40\mathrm{m}$ ， $h_0 = 150\mathrm{m}$ ，r=20m联合命中概率&lt;/p&gt;
+&lt;p&gt;最终，单枚深弹的命中概率是水平命中概率和深度命中概率的乘积：&lt;/p&gt;
+$$
+P _ {\text {单}} = P _ {\text {水 平}} \cdot P _ {\text {深}}
+$$&lt;h5 id="优化投弹方案"&gt;优化投弹方案
+&lt;/h5&gt;&lt;p&gt;问题三的要求是设计一个合理的投弹方案，使得在投放9枚深弹的情况下，至少有一枚深弹命中潜艇的概率最大化。优化的目标是使得命中概率最大化，考虑到潜艇的平面位置误差以及深度误差。本题需要从两个方面进行优化：平面投弹位置的间隔设计和定深引信引爆深度的优化。&lt;/p&gt;
+&lt;h5 id="平面间隔设计"&gt;平面间隔设计
+&lt;/h5&gt;&lt;p&gt;投弹间隔的设计主要是为了确保9枚深弹的落点能够覆盖潜艇所在的区域，并且考虑到深弹的杀伤半径，使得在不同投弹点下，深弹可以最大化潜艇被击中的概率。几何阵列的选择&lt;/p&gt;
+&lt;p&gt;本题可以通过几种常见的几何阵列来布置 9 枚深弹的投弹落点, 常见的几何阵列有: (1) 矩形阵列: 最简单的投弹方式, 间隔均匀, 排列成规则的矩形。&lt;br&gt;
+(2) 联合命中概率的优化&lt;/p&gt;
+&lt;p&gt;在设计了最优的平面投弹间隔 $d_{x}$ 和 $d_{y}$ , 以及引爆深度 $h_{d}$ 之后, 可以计算 9 枚深弹的总体命中概率。假设每枚深弹的命中事件是独立的, 那么至少一枚深弹命中的总概率 $P_{\text {总}}$ 为:&lt;/p&gt;
+$$
+P _ {\text {总}} = 1 - \left(1 - P _ {\text {单}}\right) ^ {9} \tag {25}
+$$&lt;p&gt;其中， $P_{\text{单}} = P_{\text{水平}} \cdot P_{\text{深}}$ 是单枚深弹的命中概率。通过优化 $P_{\text{单}}$ 中的平面间隔和引爆深度，可以找到使 $P_{\text{总}}$ 最大的投弹方案。&lt;/p&gt;
+&lt;h5 id="结果分析"&gt;结果分析
+&lt;/h5&gt;&lt;p&gt;（1）投弹落点的平面间隔：采用矩形或六边形阵列，投弹点之间的间隔为 $d_x = d_y \approx 60\mathrm{m}$ 。这种间隔可以有效覆盖潜艇的可能位置，避免空隙。&lt;br&gt;
+(2) 定深引信引爆深度: 最佳引爆深度为 $h_{d} = 140 \mathrm{~m}$ , 确保潜艇在爆炸时位于深弹的杀伤范围内&lt;br&gt;
+(3) 总体命中概率: 通过优化平面间隔和引爆深度, 至少一枚深弹命中的概率最大化, 提升了总体命中效果。&lt;/p&gt;
+&lt;p&gt;综上所述，本题的最佳投弹方案已经给出，求得最大命中概率为 $84.37%$ 。本题采用矩形阵列投弹最佳。但要注意投弹点间隔 $d_{x} = d_{y} = 60m$ ，为了更清楚直观的表达最佳投弹方案，本题作了如图13所示的手绘图。&lt;/p&gt;
+&lt;!-- ![](images/8199a5379711a340bb368b2560de221f0022d87994fc72a93c7e3b7f4f4bdd06.jpg)
+--&gt;
+&lt;h4 id="模型检验"&gt;模型检验
+&lt;/h4&gt;&lt;h5 id="1蒙特卡洛模拟"&gt;（1）蒙特卡洛模拟
+&lt;/h5&gt;&lt;p&gt;本题仍然采用蒙特卡洛模拟[6]（利用MATLAB软件进行可视化分析，如图14所示，详细代码见支撑材料图14)，用于验证数学模型在复杂随机条件下的效果。本题可以通过以下步骤进行模型检验，本题进行了理论命中概率与蒙特卡洛模拟命中概率。&lt;/p&gt;
+&lt;!-- ![](images/a73dae829258d770fb47599fa2dfeafde1e570360005825cc6cc9be60efa8df6.jpg)
+图13最佳投弹方案
+图14 蒙特卡洛模拟验证问题三 --&gt;
+&lt;p&gt;1）对比：将模拟结果中的命中概率与通过公式计算得出的理论命中概率进行对比。如果两者结果接近，说明模型合理有效。对比结果为理论命中概率为 $84.37%$ ，模拟结果为 $85.93%$ 。经过对比验证发现上述模型具备合理性和有效性。&lt;/p&gt;
+&lt;h5 id="2-参数敏感性分析"&gt;(2) 参数敏感性分析
+&lt;/h5&gt;&lt;p&gt;为了进一步验证模型的鲁棒性，可以进行参数敏感性分析，检验模型对输入参数（如深弹杀伤半径、潜艇位置误差、引爆深度等）的敏感性，（本题利用MATLAB软件进行敏感性分析，如图15所示，详细代码见附录图15和支撑材料）。&lt;/p&gt;
+&lt;!-- ![](images/ed65848b5a5bb61e3994eed9f33901df73c60b56331523113f9bfd20734f1e97.jpg)
+图15 问题三的敏感性分析 --&gt;
+&lt;p&gt;1）伤半径变化：改变深弹的杀伤半径 $r$ 值（例如从 $20 \mathrm{~m}$ 改为 $30 \mathrm{~m}$ ），观察命中概率的变化趋势，检查模型是否对杀伤半径具有合理响应。&lt;br&gt;
+2）位置误差变化：改变潜艇位置误差的标准差（ $\sigma$ 和 $\sigma_{Z}$ ），观察模型的结果如何变化。如果误差增大，命中概率应下降，反之亦然。&lt;br&gt;
+3) 引爆深度变化: 对比不同引爆深度下的命中概率结果, 确保最优引爆深度 $h_{d}$ 在多个引爆深度条件下表现最好。&lt;/p&gt;
+&lt;h2 id="六模型的评价与推广"&gt;六、模型的评价与推广
+&lt;/h2&gt;&lt;h3 id="61-模型优点"&gt;6.1 模型优点
+&lt;/h3&gt;&lt;p&gt;(1) 模型精确: 采用正态分布等数学工具, 准确描述潜艇位置和投弹误差。&lt;br&gt;
+(2) 实用性强: 给出了可操作的投弹方案, 易于应用于实际反潜作战。&lt;br&gt;
+（3）灵活可扩展：适用于不同场景和参数变化，模型结构灵活。&lt;br&gt;
+（4）便于仿真：模型可以模拟现实，减少实际测试的风险。&lt;br&gt;
+(5) 灵活性: 模型可以根据不同假设和参数调整, 适应多种情景。&lt;/p&gt;
+&lt;h3 id="62-模型缺点"&gt;6.2 模型缺点
+&lt;/h3&gt;&lt;p&gt;（1）简化假设较多：模型依赖于一些简化假设，实际情况可能更复杂。&lt;br&gt;
+(2) 计算复杂度高: 模型的数值计算较复杂, 尤其在快速响应场景中不够高效。&lt;/p&gt;
+&lt;h3 id="63-模型推广"&gt;6.3 模型推广
+&lt;/h3&gt;&lt;p&gt;（1）适用于其他作战场景：模型可用于无人机、导弹等目标定位与打击优化，尤其在处理目标位置误差时效果显著。&lt;br&gt;
+(2) 扩展至多目标作战: 模型可推广至多目标环境, 通过优化投弹阵列, 实现多个目标的联合打击。&lt;br&gt;
+(3) 多目标优化: 模型可以从单一目标推广到多目标优化, 解决同时满足多个约束的复杂问题。&lt;br&gt;
+（4）技术结合：模型可与其他技术（如机器学习、仿真）结合，提升其适应性和应用范围。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="参考文献"&gt;参考文献
+&lt;/h2&gt;&lt;p&gt;[1] 二维正态分布 百度百科（baidu.com）&lt;br&gt;
+[2] 截尾正态分布密度函数 - 百度文库（baidu.com）&lt;br&gt;
+[3] 尹建桥. (2008). 蒙特卡罗模拟方法及应用研究. (Doctoral dissertation, 中国地质大学(武汉)).&lt;br&gt;
+[4] 汲剑锐. 马尔科夫链应用的一些探讨. (Doctoral dissertation, 华中师范大学).&lt;br&gt;
+[5] 孙明太, 任东彦, 李居伟, 王云翔. 使用航空深弹驱赶潜艇建模与仿真[J]. 鱼雷技术, 2012, 20(06):449-453.&lt;br&gt;
+[6] 李居伟, 宋旭, 孙明太. 反潜巡逻机使用浮标声呐和自导深弹攻潜模型与仿真 [J]. 弹箭与制导学报, 2011, 31 (1): 219-22&lt;/p&gt;</description></item><item><title>基于线性回归模型的城市水资源预测模型</title><link>https://HZModelingTeam.github.io/paper/ours/hy2025modeling/</link><pubDate>Tue, 07 Oct 2025 05:54:32 +0000</pubDate><guid>https://HZModelingTeam.github.io/paper/ours/hy2025modeling/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;参赛选手：陈君逸、黄孜勇、罗梓宁、谢瑜恩、叶彬&lt;/br&gt;
+指导老师：蔡维、江滢滢、李艾&lt;/br&gt;
+排名不分先后&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="摘要"&gt;摘要
+&lt;/h2&gt;&lt;p&gt;水，是生命之源.水资源是维系地球生态系统和人类文明存续的基础性资源.虽然我国面积广阔，从水资源总量来看，是一个比较丰富的国家，但是在世界平均水平中人均占有量确仅有
+1/4，被联合国评为“水资源紧缺型”
+的国家.而且水资源分配情况呈现出极度不平衡状态.本文针对水资源的影响因素，基于数学分析方法，分别采用多元线性回归模型进行建模分析.水资源主要影响因素分为自然因素与人文因素.但由于人文因素影响复杂且常年稳定，故本建模以对自然因素的研究为主.&lt;/p&gt;
+&lt;p&gt;首先，我们利用河源市2006~
+2023年的历史数据，使用python绘制散点图，以及计算样本相关系数，判断自变量与因变量的相关性.接着基于多元线性回归模型，利用最小二乘法，我们选取了部分变量作为解释变量.对被解释变量即水资源总量进行初步建模，求解回归系数.在考虑变量的合理性（如是否遗漏关键因素）后剔除相关性不大的变量，进一步建模，通过公式计算模型的决定系数
+，调整 ,检验模型精确度.结果显示，年降水量、年日照时长与水资源总量基本呈线性关系.&lt;/p&gt;
+&lt;p&gt;随后我们尝试对模型进行推广，以运用于其他城市.由于不同城市的自然条件、社会经济状况存在显著差异，适用于河源市的模型直接套用，出现了很大的误差，于是尝试添加更多的解释变量如城市面积、城市大型水库蓄水量、城市用水量进行修正，进一步优化后，得到的模型有一定的预测能力，能在一定条件下实现预测功能.&lt;/p&gt;
+&lt;p&gt;最后，本文对提出的模型进行了全面综合的评价：
+该模型在水资源影响因素的研究有一定意义，其反映了自然因素在水资源配置中几乎发挥了决定性的作用；增加修筑城市内部水利工程，加大力度宣扬节约用水，推广节水设施可以在一定程度上优化城市内水资源配置.但在该基础上，仍可以考虑其他非线性模型优化，提高模型精度与适用性.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关键词:&lt;/strong&gt; 水资源；R方检测法；线性回归模型；最小二乘法;python&lt;/p&gt;
+&lt;h2 id="一自拟题目描述"&gt;一、自拟题目描述
+&lt;/h2&gt;&lt;p&gt;水，是生命之源.水资源是维系地球生态系统和人类文明存续的基础性资源.然而随着人口增长、经济发展和气候变化影响，水资源短缺与污染问题日益凸显，虽然我国面积广阔，从水资源总量来看，是一个比较丰
+富的国家，但是在世界平均水平中人均占有量确仅有1/4，被联合国评为“水资源紧缺型” 的国家[^1]
+.而且水资源分配情况呈现出极度不平衡状态，主要表现有：时空分布极不均衡、
+供需矛盾日益尖锐、水污染问题突出、利用效率偏低等等.为了优化水资源配置，增强水资源调控能力，请你完成以下数学建模探究：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;以河源市为例，运用数学知识，对水资源总量影响因素进行探究并且建立简单的的数学模型，并你所建立的模型进行优化；&lt;/li&gt;
+&lt;li&gt;(1) 中的模型是否能用于其他城市，如不能，应如何改进？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="二问题分析"&gt;二、问题分析
+&lt;/h2&gt;&lt;p&gt;水资源是关乎区域生态安全与社会经济发展的核心资源，我国水资源总量丰富但人均不足、分布失衡的现状，凸显了精准分析水资源影响因素、构建科学调控模型的重要性.整体而言，问题的核心在于从复杂的水资源系统中提炼关键影响因素，建立可量化的关系模型，并通过对模型适应性的分析，形成具有一定推广意义的研究思路.&lt;/p&gt;
+&lt;h3 id="21-问题-1-的分析"&gt;2.1 问题 1 的分析
+&lt;/h3&gt;&lt;p&gt;针对问题（1）的研究&lt;/p&gt;
+&lt;p&gt;对于城市水资源总量一般情况下往往会有多个因变量对其产生影响，其中包括了自然因素和人文因素.由于人文因素常年波动幅度较小且对水资源总量影响不大，这里我们忽略人文因素，只考虑自然因素，我们选取了年平均气温年降水量，年日照时长年相对湿度作为解释变量.根据所给数据，我们采用图像法以及样本相关系数法[^2]
+观察各自变量与因变量的相关性，得到粗略关系，再进一步建立多元线性回归模型[^3]，检验模型预测准度.&lt;/p&gt;
+&lt;h3 id="22-问题-2-的分析"&gt;2.2 问题 2 的分析
+&lt;/h3&gt;&lt;p&gt;针对问题（2）的研究&lt;/p&gt;
+&lt;p&gt;此问题是在检验模型的适用性，尝试将模型推广到更普适的高度.我们这样先采用已有的模型，输入其他城市的相关数据，并进行检验.此过程中可能会遇到，模型偏差较大的情况.为了简化问题探究过程，我们忽略了城市间在地形，城市布局等各方面的影响因素，尝试添加城市面积、城市主要河流径流、主要水库蓄水面积.作为新的解释变量，进一步优化模型.以期提升其在不同地域的适用性，实现从“个案模型”到“可迁移模型”的转化.&lt;/p&gt;
+&lt;h2 id="三模型假设"&gt;三、模型假设
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;假设题目所给的数据真实可靠；&lt;/li&gt;
+&lt;li&gt;假设城市间在地形，城市空间布局等除解释变量的因素都可忽略.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="四定义与符号说明"&gt;四、定义与符号说明
+&lt;/h2&gt;&lt;p&gt;网站暂不给出&lt;/p&gt;
+&lt;h2 id="五模型的建立与求解"&gt;五、模型的建立与求解
+&lt;/h2&gt;&lt;p&gt;数据的预处理：&lt;/p&gt;
+&lt;p&gt;本研究收集到了河源市、北京市、深圳市、上海市、杭州市 2001 至 2022 年相关数据.主创团队首先对收集到的原始数据进行全面梳理，通过
+python matplotlib 可视化方法识别异常值.&lt;/p&gt;
+&lt;p&gt;河源市 2007 年以前的数据缺失，上海市 2009 年以前的数据缺失，杭州市 2006 年以前的数据缺失，我们选择直接舍弃.&lt;/p&gt;
+&lt;p&gt;在收集到的数据中，发现河源市某年年降雨量极端异常.于是我们选择删去，并通过其他渠道补充数据.&lt;/p&gt;
+&lt;h3 id="51问题1的模型建立与求解"&gt;5.1问题1的模型建立与求解
+&lt;/h3&gt;&lt;h4 id="511-对多元线性回归模型的建立"&gt;5.1.1 对多元线性回归模型的建立
+&lt;/h4&gt;&lt;p&gt;首先我们先进行数据的相关性检验，确定 2006~2022
+年河源市年相对湿度年均气温年降水量年日照的时长与水资源总量较相关的有几项.初步分析时，我们同时采用图像与样本相关系数来比较关联程度.以下是各自变量与因变量的样本相关系数.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;自变量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;样本相关系数&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;年降雨量&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.9589002143077459&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;年均温&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-0.4907012441700653&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;年日照时长&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-0.8500764086782552&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;年平均相对湿度&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.5083870754427816&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/rain.png"
+width="576"
+height="432"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/rain_hu_7bd786f06ca24cb5.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/rain_hu_14ee18fb4ee79974.png 1024w"
+loading="lazy"
+alt="年降雨量与水资源总量"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;
+！&lt;a class="link" href="temp.png" &gt;年均温与水资源总量&lt;/a&gt;
+&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/time.png"
+width="576"
+height="432"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/time_hu_a6f2163f0e3263c9.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/time_hu_f8a57a4690311912.png 1024w"
+loading="lazy"
+alt="年日照时长与水资源总量"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;
+&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/hum.png"
+width="576"
+height="432"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/hum_hu_41d32a7a785c89cd.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/hum_hu_95241dca737e74b5.png 1024w"
+loading="lazy"
+alt="年平均相对湿度与水资源总量"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;根据样本相关系数及观察图像，我们注意到年日照时长与年均温呈现一定的负相关关系，而降雨量和年均相对湿度呈现正相关关系，于是我们考虑使用多元线性回归模型拟合数据.&lt;/p&gt;
+&lt;p&gt;借助python中的scikit-learn模块我们可以得到如下拟合结果（数值计算的代码见附件，论文内展示数据保留三位小数）&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;统计量&lt;/th&gt;
+&lt;th&gt;年降雨量&lt;/th&gt;
+&lt;th&gt;年日照时长&lt;/th&gt;
+&lt;th&gt;年均温&lt;/th&gt;
+&lt;th&gt;年均相对湿度&lt;/th&gt;
+&lt;th&gt;截距&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;回归系数&lt;/td&gt;
+&lt;td&gt;0.071&lt;/td&gt;
+&lt;td&gt;-0.078&lt;/td&gt;
+&lt;td&gt;1.372&lt;/td&gt;
+&lt;td&gt;-0.808&lt;/td&gt;
+&lt;td&gt;192.517&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;P值&lt;/td&gt;
+&lt;td&gt;2.487e-06&lt;/td&gt;
+&lt;td&gt;0.014&lt;/td&gt;
+&lt;td&gt;0.819&lt;/td&gt;
+&lt;td&gt;0.403&lt;/td&gt;
+&lt;td&gt;0.114&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;决定系数 \(R^2\)&lt;/td&gt;
+&lt;td&gt;0.960&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;调整 \(R^2\)&lt;/td&gt;
+&lt;td&gt;0.946&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;得到经验回归方程&lt;/p&gt;
+\[
+\hat{y} = 0.071 x_1 -0.078 x_2 + 1.372 x_3 -0.808 x_4 + 192.517
+\]&lt;h4 id="512多元线性回归模型的优化"&gt;5.1.2多元线性回归模型的优化
+&lt;/h4&gt;&lt;p&gt;基于对1中模型的结果，我们尝试对其进行优化，优化方向如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;考虑到问题1我们所建立的模型中，自变量年相对湿度和年平均气温的样本相关系数绝对值较小，相关性较弱，于是我们尝试删去这两个自变量，只保留年降雨量和日照时长.&lt;/li&gt;
+&lt;li&gt;问题（1）中我们没有对数据进行标准化处理，这次我们尝试标准化.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;标准化是数据预处理的常用方法，目的是将不同量级不同单位的数据转换在同一个尺度上,消除量纲差异，使数据更具有可比性.我们使用Z-score
+Normalization的方法进行标准化[^3]，转化公式如下&lt;/p&gt;
+\[
+\hat{x} = \frac{x - \mu}{\sigma}
+\]&lt;p&gt;再删除两个相关性较弱的变量，用python拟合得到结果（数值计算的代码见附件，论文内展示数据保留三位小数）
+以下是经过计算得出的模型数据，&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;统计量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;年降雨量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;年日照时长&lt;/th&gt;
+&lt;th style="text-align: center"&gt;截距&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;回归系数&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.737&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-0.295&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4.215e-16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;P值&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4.769e-07&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3.511e-3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;决定系数 \(R^2\)&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.957&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;调整 \(R^2\)&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.951&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/2.png"
+width="1134"
+height="664"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/2_hu_5e05185e5214fe79.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/2_hu_ad396f60610c4846.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+&gt;
+&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp.png"
+width="1134"
+height="664"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp_hu_aeeec1ab579f3f0a.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp_hu_87bc2e98e26019c.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+&gt;
+&lt;img src="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp_pred.png"
+width="1134"
+height="664"
+srcset="https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp_pred_hu_51a59146ef57078e.png 480w, https://HZModelingTeam.github.io/paper/ours/hy2025modeling/exp_pred_hu_f54ab1f97945a3e0.png 1024w"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="170"
+data-flex-basis="409px"
+&gt;&lt;/p&gt;
+&lt;h4 id="513-结果"&gt;5.1.3 结果
+&lt;/h4&gt;&lt;p&gt;先运用样本相关系数评估了各自变量对因变量的相关性,得出年降雨量和年均气温是城市水资源总量的主要影响因素.&lt;/p&gt;
+&lt;p&gt;接着采用多元线性回归模型，建立水资源总量与各自变量间的关系.建构模型时使用了2007~2023年的数据，观察到决定系数 和调整
+都接近1，可以认为模型较好地反映了自变量与因变量的数量关系.&lt;/p&gt;
+&lt;p&gt;鉴于城市水资源总量与年降雨量、日照时长关联较大，政府可加强雨水收集与利用，以此提高水资源总量.&lt;/p&gt;
+&lt;h3 id="52-问题-2-的模型建立与求解"&gt;5.2 问题 2 的模型建立与求解
+&lt;/h3&gt;&lt;h4 id="521-多元线性回归模型的建立"&gt;5.2.1 多元线性回归模型的建立
+&lt;/h4&gt;&lt;p&gt;我们现在需要尝试推广这个模型，将其应用到更多城市中，使其具有普适性.首先我们，将北京市的数据代入原有模型中，发现模型输出值和真实值差异较大.&lt;/p&gt;
+&lt;p&gt;考虑到不同城市的自然条件、社会经济状况存在显著差异，于是我们尝试进一步考察各城市间的城市的面积，城市大型河流年径流量，城市大型水库蓄水量对水资源总量的影响，添加自变量.自变量
+为城市面积， 为城市用水量， 为城市大型水库蓄水量.&lt;/p&gt;
+&lt;p&gt;借助python中的scikit-learn模块，代入河源市、北京市、杭州市、深圳市、上海市的数据，我们可以得到如下拟合结果（数值计算的代码见附件，论文内展示数据保留三位小数）&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;统计量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;年降雨量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;年日照时长&lt;/th&gt;
+&lt;th style="text-align: center"&gt;城市面积&lt;/th&gt;
+&lt;th style="text-align: center"&gt;城市大型水库蓄水量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;城市用水量&lt;/th&gt;
+&lt;th style="text-align: center"&gt;截距&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;回归系数&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.612&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-0.303&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.054&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.088&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-0.0388&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-9.021e-17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;P值&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1.957e-06&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4.582e-3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.295&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.493&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.728&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1.000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;决定系数 \(R^2\)&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.968&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;调整 \(R^2\)&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.963&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id="522-结果"&gt;5.2.2 结果
+&lt;/h4&gt;&lt;p&gt;找到城市面积城市大型蓄水量和城市用水量，三个数据作为新增的自变量，以适应不同城市水资源配置上的差异.接着进行数据标准化，带入线性回归方程求解，得到的模型，观察数据拟合结果发现本次模型的决定系数
+和调整 也较接近1，说明本次数据拟合效果较好.对于新添加的变量城市面积\城市大型水库蓄水量和城市用水量的p值较大,说明他们与城市总用水量之间可能并非简单的线性关系，由此造成模型误差增加.&lt;/p&gt;
+&lt;p&gt;由以上模型我们可以得到城市面积城市大型水库蓄水量与水资源总量成正相关关系，而城市用水量与水资源总量呈负相关关系.观察模型各自变量的回归系数，我们发现城市面积，城市大型水库蓄水量和城市用水量的回归系数都较小，说明他们在对水资源总量的影响上没有前两者明显.但我们并不可否认此三者对水资源总量的影响.三者中城市大型水库蓄水量的回归系数绝对值最大，反映了相关水利工程在水资源保护中的重要意义.而城市面积一定程度上反映了一个城市在自然条件下富集水资源的能力.城市用水量虽然在三者中回归系数绝对值最小，但仍然不容忽视.它在一定程度上与浪费水资源的现象有关，为城市内部合理调配水资源提供数据参考.&lt;/p&gt;
+&lt;p&gt;综上所述，我们可以得出结论，自然因素在水资源配置中几乎发挥了决定性的作用，这也是造成我国南北水资源差异的主要因素.增加修筑城市内部水利工程，可以有效缓解上述问题.同时政府应该加大力度宣扬节约用水，保护水资源，如设置价梯水价，推广节水设施，鼓励企业采用循环水资源的生产流程，改建农业灌溉技术等等.&lt;/p&gt;
+&lt;h2 id="六模型的评价及优化"&gt;六、模型的评价及优化
+&lt;/h2&gt;&lt;h3 id="61-误差分析"&gt;6.1 误差分析
+&lt;/h3&gt;&lt;h4 id="611-针对问题1的误差分析"&gt;6.1.1 针对问题1的误差分析
+&lt;/h4&gt;&lt;p&gt;模型1在使用python拟合模型的时候并未进行标准化除去量纲带来的影响，并且我们发现年均温与年均相对湿度的样本相关系数的绝对值偏小，P值偏大，我们考虑删除这两个自变量以优化该模型.
+删除两个自变量之后，模型的精度得到了显著的提高.两个自变量的p值极小，最后的决定系数r方和调整r方较接近1.但仍有误差，我们猜测这些误差可能来自于没有将人文因素考虑进去.&lt;/p&gt;
+&lt;h4 id="612-针对问题2的误差分析"&gt;6.1.2 针对问题2的误差分析
+&lt;/h4&gt;&lt;p&gt;本次建模的误差主要来自于各城市间自然条件，社会经济状况差异较大，同时我们只选取了5个城市，得到的模型不能完全反映所有城市的共同特点.同时数据中出现的缺失，主创团队选择了直接舍弃，也是可能存在的误差原因.或许可以采用一些数学方法估计缺失值，从而保留了该年份的其他有效数值.&lt;/p&gt;
+&lt;p&gt;其次，我们使用了软件帮助我们计算，精度误差不可避免地就会产生.&lt;/p&gt;
+&lt;p&gt;再者，误差也极有可能是多元线性回归模型本身的局限性造成的，相关人文因素可能与因变量间并非呈简单的线性关系,可以考虑后续添加交互项来进一步拟合.&lt;/p&gt;
+&lt;h3 id="62-模型的优点建模方法创新求解特色等"&gt;6.2 模型的优点（建模方法创新、求解特色等）
+&lt;/h3&gt;&lt;p&gt;灵活运用了高中所学的多元线性回归模型，适当的建立假设简化模型的分析和计算，同时在数据分析中迅速找到关键因素，建构出来的模型预测精度较高.后续能考虑到模型的普适性，并通过增加自变量对其进行进一步的推广，一定程度上扩大了模型的适用范围，使模型本身对于水资源调配更具有现实意义.&lt;/p&gt;
+&lt;h3 id="63-模型的缺点"&gt;6.3 模型的缺点
+&lt;/h3&gt;&lt;p&gt;本模型到优化后期就受到了数据量的制约影响，限制了模型的精度.模型的预测结果也受一些不可控的因素的影响，存在不确定性.同时多元线性回归模型本身由于忽略自变量问的纠缠，或自变量与因变量非线性关系，也不能完美地反映各自变量与因变量之间的数量关系.&lt;/p&gt;
+&lt;h3 id="64-模型的推广"&gt;6.4 模型的推广
+&lt;/h3&gt;&lt;p&gt;本模型运用到了高中所学的知识，能够有效地预测结果.若要对其推广和优化，我们可以考虑的方向有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;增加数据的输入量，使预测模型精度更高更可信；&lt;/li&gt;
+&lt;li&gt;引入更多影响因素如城市地形条件、城市植被覆盖率、城市水文条件等等，以更详细地量化自变量与因变量数量关系.&lt;/li&gt;
+&lt;li&gt;对部分数据进行滞后处理，如使用上一年用水量，避免双向因果干扰.&lt;/li&gt;
+&lt;li&gt;考虑更加先进更加复杂的模型（如系统动力学）进行建模.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="参考文献"&gt;参考文献
+&lt;/h2&gt;&lt;p&gt;[^1] &lt;a class="link" href="http://baike.so.com/doc/4958951-5180921.html" target="_blank" rel="noopener"
+&gt;360 百科&lt;/a&gt;.
+[^2] 高中数学选择性必修三
+[^3] 刘来福、徐晓阳、陈雄.高中数学建模[M].北京西城区新街口外大街12-3号.北京师范大学出版社.&lt;/p&gt;</description></item></channel></rss>
