@@ -19,7 +19,7 @@ links:
     website: https://www.mcm.edu.cn/
 ---
 
-<!-- > [Download PDF](/papers/pdf/反潜航空深弹投掷方案及概率分析.pdf) -->
+> Download PDF: [反潜航空深弹投掷方案及概率分析.pdf](/papers/pdf/反潜航空深弹投掷方案优化及概率分析.pdf)
 
 ## 摘要
 
